@@ -13,4 +13,4 @@ Solo el shader basico
  
  La camara se puede mover hacia adelante y atras, y rotar el objeto hacia arriba y hacia abajo, no se tiene una forma de evitar que atraviese modelos.
  
-0 - 20 puntos según la estética del modelo
+* 0 - 20 puntos según la estética del modelo
